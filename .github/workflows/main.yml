@@ -18,7 +18,7 @@ jobs:
           # Options
           user: Ihavegot
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, repositories, metadata
           config_timezone: Europe/Warsaw
           plugin_activity: yes
           plugin_activity_days: 14
