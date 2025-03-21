@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: MainMetrics
+name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 0 * * *"}]
@@ -33,3 +33,16 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           plugin_lines: yes
+  steam-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.steam.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "76561198259354146"
+          plugin_steam_sections: player, recently-played
+          plugin_steam_achievements_limit: 10
