@@ -102,15 +102,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABgECAwQFAAcI/8QALhAAAQMDAwMDAwMFAAAAAAAAAQACAwQFEQYSIQcxQRMiUTJSYRQlNENTYnHB/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUAAQID/8QAHREBAAMBAAMBAQAAAAAAAAAAAQACAxEEEiETQ//aAAwDAQACEQMRAD8A+cjuewljgI3cOcfCOIdJ2SriidTaloo6l7BuY4E4KCJHbnkuIfGePZwEjcBrssduP07eCu2tNbHCc6B6z0U9Krq9hNNWQzxtG5jmN4JVGTpte42PJZmVnJOOEWdHL7UzWqpt8jpJHRDc1xPIz4S9V7xUUdrpaekfMyeZ5bI4O7BK7eVv+5iQsyPz7AuPp9eHQ+rFHlxOHK5SdMrrMWF88cXPu3DsqOiLvW091bE6qmljlOMF5PKO9SXyanslbJE9zZNmG8+VWu+9NfVZKZH5wRk0NQUEpF31JQwn7CDlB93paajuO23ztni/uDsVA6Z82XSPdNI45Jec4KiJx3G53wEzxz2ql1gtw9eR7iNvbCdkenlc9zMcLsAxrrQsU9lg70hx0mrRSXKs9TsWDsp+qVc2pqab0/Dlg6PqBTV0u0Zy0KfXEv6ioiyNuEqMivlGixnZTCZennkXilxx7/CKtXz5t23PkoSshDLvSD/JE2qx+35/JWvJqX3EmMFcmA8bQXfCbJ7X8Jwy1wA8pZBsO5yZo2qBAjr0jXhvhK3OOFLIxgKQYA4UV59mW3SbWkg01chPwrGrv5Lcc8Khp52yaUt+FNfZHPmbn4QFgdyHfxlG2ZjracnvuyiXUdUJqANGOEN21jpblC38ravVO+OhkcfCz5NQ2OSZV5kwYaRg/KaCA7nn/aaCAnbQUybPDkEfhFa4OOWuEg/CQ4Zn5PgpkhLgwEtAJ+towAiGO022OGKSou9PKT/SaCHLGmwnyQp8jdM07nMmlcRhwwOF2oBtjhweWOyVsU10tVJS+nH4/KoV92oJRjZndwlb7W3Eh9jmUoadjNRdIng+1hyUXahia+y1TzG4uY3IAWFbbtaaU7YoHiQ9zuV6fUlFUHDgREfa4Eqtixr2Vl9yYENJDeBn/ikhHu495+At2a32WoeX01a2lcecSHOVkVkUcM2yOUSj72cJljsd4wRr0n//2Q==" alt="" />
+                            <img src="data:image/jpg;base64,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" alt="" />
                             <div class="about">
-                                <div class="name">Kingdom Come: Deliverance II</div>
+                                <div class="name">Mortal Kombat 1</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Adventure, RPG
+                                        Action
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        45 hours played
+                                        2 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 26 Mar 2025
+                                        Last played on 3 Apr 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
